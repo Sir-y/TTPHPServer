@@ -1,0 +1,82 @@
+{
+    "data": {
+        "title": "大家都在看",
+        "list": [
+            {
+                "limg": "https://s11.mogucdn.com/mlcdn/55cf19/190423_37298c2djbklg650hk9fa9fki46eg_640x960.jpg_640x854.v1cAC.40.webp",
+                "lsp": [
+                    "潮流t恤",
+                    "短袖",
+                    "印花",
+                    "宽松",
+                    "百搭",
+                    "中长款",
+                    "夏季",
+                    "韩版"
+                ],
+                "mony": 48,
+                "collection": 5620
+            },
+            {
+                "limg": "https://s11.mogucdn.com/mlcdn/c45406/190522_5b0kc61lj6b4ac373lk2l4kc1d496_800x1200.jpg_640x854.v1cAC.40.webp",
+                "lsp": [
+                    "潮流t恤",
+                    "短袖",
+                    "印花",
+                    "宽松",
+                    "百搭"
+                ],
+                "mony": 89,
+                "collection": 3560
+            },
+            {
+                "limg": "https://s11.mogucdn.com/mlcdn/c45406/190522_5b0kc61lj6b4ac373lk2l4kc1d496_800x1200.jpg_640x854.v1cAC.40.webp",
+                "lsp": [
+                    "潮流t恤",
+                    "短袖",
+                    "印花",
+                    "宽松",
+                    "百搭"
+                ],
+                "mony": 89,
+                "collection": 3560
+            },
+            {
+                "limg": "https://s11.mogucdn.com/mlcdn/c45406/190522_5b0kc61lj6b4ac373lk2l4kc1d496_800x1200.jpg_640x854.v1cAC.40.webp",
+                "lsp": [
+                    "潮流t恤",
+                    "短袖",
+                    "印花",
+                    "宽松",
+                    "百搭"
+                ],
+                "mony": 89,
+                "collection": 3560
+            },
+            {
+                "limg": "https://s11.mogucdn.com/mlcdn/c45406/190522_5b0kc61lj6b4ac373lk2l4kc1d496_800x1200.jpg_640x854.v1cAC.40.webp",
+                "lsp": [
+                    "潮流t恤",
+                    "短袖",
+                    "印花",
+                    "宽松",
+                    "百搭"
+                ],
+                "mony": 89,
+                "collection": 3560
+            },
+            {
+                "limg": "https://s11.mogucdn.com/mlcdn/c45406/190522_5b0kc61lj6b4ac373lk2l4kc1d496_800x1200.jpg_640x854.v1cAC.40.webp",
+                "lsp": [
+                    "潮流t恤",
+                    "短袖",
+                    "印花",
+                    "宽松",
+                    "百搭"
+                ],
+                "mony": 89,
+                "collection": 3560
+            }
+        ]
+    }
+}

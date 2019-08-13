@@ -1,0 +1,44 @@
+{
+    "black": [
+        {
+            "color": "black",
+            "name": "旗袍"
+        },
+        {
+            "color": "red",
+            "name": "连衣裙"
+        },
+        {
+            "color": "black",
+            "name": "裙子"
+        },
+        {
+            "color": "black",
+            "name": "睡衣"
+        },
+        {
+            "color": "black",
+            "name": "背带裤"
+        },
+        {
+            "color": "black",
+            "name": "短裤"
+        },
+        {
+            "color": "black",
+            "name": "汉服"
+        },
+        {
+            "color": "red",
+            "name": "泳衣"
+        },
+        {
+            "color": "black",
+            "name": "拖鞋"
+        },
+        {
+            "color": "red",
+            "name": "凉鞋"
+        }
+    ]
+}
